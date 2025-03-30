@@ -28,14 +28,23 @@ A curated list of awesome papers, tools, datasets, and resources at the intersec
 
 ## 📦 Contents
 
-- [Awesome AI for Electricity ](#awesome-ai-for-electricity-)
-  - [📦 Contents](#-contents)
-  - [Surveys](#surveys)
-  - [LLM Tools](#llm-tools)
-  - [Papers](#papers)
-  - [Websites](#websites)
-  - [Datasets](#datasets)
-  - [Others](#others)
+- [📝 Surveys](#Surveys)
+- [🤖 LLM Tools](#llm-tools)
+- [📄 Papers](#papers)
+  - Smart Grid
+  - Consumption Forecasting
+  - Time Series
+  - Power Forecasting
+  - Electricity Markets and Power Trading
+  - Safety and Privacy
+  - Abnormal & Outlier Detection
+  - Recognition
+  - Circuit Design
+  - Digital Twin
+- [🌐 Websites](#websites)
+- [🗃️ Datasets](#datasets)
+- [➕ Others](#others)
+
 
 ## Surveys
 
