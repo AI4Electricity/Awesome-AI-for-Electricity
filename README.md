@@ -1,4 +1,4 @@
-# Awesome-AI-for-Electricity [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome AI for Electricity [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
   <a href="">
@@ -12,7 +12,7 @@ A curated list of awesome papers, tools, datasets, and resources at the intersec
 
 ⚡️ Contributions are welcome! Feel free to open issues or submit pull requests to add new content.
 
-📩 If you have related papers, technical reports, or repositories that are not yet included, feel free to [***email me***]((rl4electric.ai@hotmail.com)) and I’ll be happy to add them. You can cite this repository as follows:
+📩 If you have related papers, technical reports, or repositories that are not yet included, feel free to [***email me***](mailto:rl4electric.ai@hotmail.com) and I’ll be happy to add them. You can cite this repository as follows:
 
 ```
 @misc{AwesomeAI4Electricity, 
@@ -28,7 +28,7 @@ A curated list of awesome papers, tools, datasets, and resources at the intersec
 
 ## 📦 Contents
 
-- [Awesome-AI-for-Electricity ](#awesome-ai-for-electricity-)
+- [Awesome AI for Electricity ](#awesome-ai-for-electricity-)
   - [📦 Contents](#-contents)
   - [Surveys](#surveys)
   - [LLM Tools](#llm-tools)
@@ -488,6 +488,8 @@ A curated list of awesome papers, tools, datasets, and resources at the intersec
 
 ## Datasets
 
+<details open>
+<summary><h3 style="margin: 0; display: inline-block">Datasets</h3></summary>
 
 * **Data Driven Prediction Models of Energy Use of Appliances in a Low-Energy House**  [[paper](https://www.sciencedirect.com/science/article/pii/S0378778816308970)] [[code](https://www.kaggle.com/datasets/loveall/appliances-energy-prediction/data)]
   * Luis M. Candanedo and Véronique Feldheim and Dominique Deramaix, ***Energy and Buildings***, 2017
@@ -506,6 +508,7 @@ A curated list of awesome papers, tools, datasets, and resources at the intersec
 * **Benchmarks And Custom Package for Electrical Load Forecasting**  [[paper](https://arxiv.org/abs/2307.07191)] [[code](https://github.com/Leo-VK/EnFoAV)]
   * Zhixian Wang, Qingsong Wen, Chaoli Zhang, Liang Sun, Leandro Von Krannichfeldt, Shirui Pan, Yi Wang, ***arxiv***, 2023
 
+</details>
 
 
 ## Others

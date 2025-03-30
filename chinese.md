@@ -12,7 +12,7 @@
 
 ⚡️ **欢迎社区贡献！** 欢迎通过 Issue 或 Pull Request 提交新的资源或内容补充。
 
-📩 如您拥有尚未收录的相关论文、技术报告或代码仓库，欢迎通过[***邮件***](rl4electric.ai@hotmail.com)联系，我们将积极审核并纳入本资源库中。
+📩 如您拥有尚未收录的相关论文、技术报告或代码仓库，欢迎通过[***邮件***](mailto:rl4electric.ai@hotmail.com)联系，我们将积极审核并纳入本资源库中。
 
 
 🔗 如果你觉得这个资源对你的研究有帮助，欢迎在项目和论文中引用我们的库，更准确的信息请参考 [**English Version**](./README.md):
@@ -496,6 +496,9 @@
 
 ## 开源数据集
 
+<details open>
+<summary><h3 style="margin: 0; display: inline-block">数据集</h3></summary>
+
 * **低能耗住宅中家电能耗的基于数据驱动的预测模型研究**  [[论文链接](https://www.sciencedirect.com/science/article/pii/S0378778816308970)] [[开源代码](https://www.kaggle.com/datasets/loveall/appliances-energy-prediction/data)]
   * Luis M. Candanedo and Véronique Feldheim and Dominique Deramaix, ***Energy and Buildings***, 2017
 
@@ -513,6 +516,7 @@
 * **面向电力负荷预测的基准测试与定制软件包应用研究**  [[论文链接](https://arxiv.org/abs/2307.07191)] [[开源代码](https://github.com/Leo-VK/EnFoAV)]
   * Zhixian Wang, Qingsong Wen, Chaoli Zhang, Liang Sun, Leandro Von Krannichfeldt, Shirui Pan, Yi Wang, ***arxiv***, 2023
 
+</details>
 
 
 ## 其它资源
